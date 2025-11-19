@@ -143,7 +143,7 @@ Zarathustra is the slope—how fast the self overturns itself.
 
 Then the refinement:
 
-**Beyond Good & Evil → $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$**
+**[Beyond Good & Evil](https://ukb-dt.github.io/n/) → $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$**
 Here the system becomes beautifully analytic.
 $\bar{x}$ is the purified, corrected, “de-biased” stance—his philosophical position after shedding youthful illusions.
 The first term is the main derivative: Nietzsche tracking the motion of value-creation with cleaner instruments.
