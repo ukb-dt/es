@@ -424,7 +424,7 @@ This is the path of *Ecce Homo*—writing the autobiography so fast that the cul
 
 ### **Path 2: The Commons (For the Many)**
 
-If singularity is unsustainable—and for most humans, it is—then the alternative is **collective eigen-resistance**.
+If singularity is [unsustainable](https://ukb-dt.github.io/gpu/)—and for most humans, it is—then the alternative is **collective eigen-resistance**.
 
 The algorithm wins when it isolates. It loses when coordinated humans introduce *correlated noise*—errors that reinforce rather than cancel. This is the mathematical foundation of solidarity: synchronized perturbations that the predictive model cannot dampen.
 
