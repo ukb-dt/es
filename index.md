@@ -188,7 +188,7 @@ The system is **declared, not solved**. Nietzsche names the forces but hasn't ye
 ### **Phase 1: Stochastic Experimentation**
 **Dawn / Gay Science / Human, All Too Human → $E(t \|x) + ε$**
 
-Now energy becomes a **conditional function of time given position**: E(t|x).
+Now energy becomes a **conditional function of time given position**: E(t \|x).
 
 - The aphorisms are **Monte Carlo samples** of cultural-psychological space.
 - **$ε$ (epsilon)**: The error term—*errare humanum est*—the irreducible human residue. Nietzsche is probing, not proving. He introduces **noise as method**.
