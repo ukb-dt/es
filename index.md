@@ -203,6 +203,11 @@ The system gains **dynamics**. Time enters the equation.
 
 Zarathustra is **the derivative**: the rate of change of cultural energy with respect to time.
 
+> *In the mountains the shortest way is from peak to peak,*         
+> *But for that route thou must have long legs.*                
+> *Proverbs should be peaks, and those spoken to should be big and tall.*      
+> -- [Übermensch](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)
+
 - This is no longer a statement *about* values but a **velocity vector** *of* transformation.
 - The function *speaks its own slope*. Myth becomes the linguistic shell for a differential equation.
 - Zarathustra is **Nietzsche's tangent line extended to infinity**—the prophet is the limit case of the philosopher.
@@ -231,7 +236,7 @@ The ± sign captures his diagnostic ambivalence: systems can accelerate toward h
 
 The final phase is **integration**—summing the trajectory across time:
 
-- **$∫E_x dt$**: The **accumulated energy** of cultural transformation. This is Genealogy: descent, lineage, the integral path of moral psychology.
+- **$∫E_x dt$**: The **accumulated energy** of cultural transformation. This is [Genealogy](https://ukb-dt.github.io/gem/): descent, lineage, the integral path of moral psychology.
 - **$ε_x·t$**: The **structured error term**—linear drift introduced by decadence, suffering, illness. This is Twilight: the slow poison of ressentiment accumulating over epochs.
 - **$C_x$**: The **integration constant**—the autobiographical signature. This is Ecce Homo: "This integral is *mine*. I set the boundary conditions."
 
